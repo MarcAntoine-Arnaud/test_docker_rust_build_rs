@@ -4,6 +4,3 @@ version = "0.0.1"
 authors = [
   "Marc-Antoine ARNAUD <maarnaud@media-io.com>",
 ]
-
-[build-dependencies]
-built = "0.3"
